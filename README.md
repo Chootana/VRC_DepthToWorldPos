@@ -2,7 +2,7 @@
 
 This is a post process shader to detect world position from the camera depth texture.
 
-There are not any C# scripts, so that you can use it for VRC easily.
+There are not any C# scripts, so that you can use this shader for VRC easily.
 
 (I hope Graphics.Blit will come soon to Udon)
 
@@ -12,7 +12,7 @@ There are not any C# scripts, so that you can use it for VRC easily.
 
 
 # Reference 
-This is inspired by [DepthInverseProjection](https://github.com/keijiro/DepthInverseProjection)
+This project is inspired by [DepthInverseProjection](https://github.com/keijiro/DepthInverseProjection)
 
 # Unity Version
 - Unity 2019.4.29f1 
